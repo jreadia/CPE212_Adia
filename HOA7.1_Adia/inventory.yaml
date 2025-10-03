@@ -9,3 +9,6 @@ server2centOS
 [file_servers]
 server1
 server3
+
+[workstations]
+server1
