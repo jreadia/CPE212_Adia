@@ -1,0 +1,11 @@
+[web_servers]
+server1
+server2centOS
+
+[db_servers]
+server3
+server2centOS
+
+[file_servers]
+server1
+server3
